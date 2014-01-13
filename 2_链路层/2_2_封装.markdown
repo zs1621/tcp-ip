@@ -1,0 +1,15 @@
+
+##**Enternet II封装**
+
+- 下面使用wireshark抓的包其中Enternet II层的消息
+ - Destination: Broadcast(ff:ff:ff:ff:ff:ff)
+ - Source: 20:16:68:df:b4:2f
+ - Type: IP(0x0800)
+ - Trailer: 00000000000000
+
+- 对照书中的图
+
+![封装图](http://www.weeqoo.com/uploadfile/2009/11/11/2009111111265891260.jpg)
+
+##TBC
+
