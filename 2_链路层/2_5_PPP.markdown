@@ -13,6 +13,7 @@
  - 链路控制协议LCP
  - 网络控制协议NCP
  - 扩展协议(如Multilink Protocol)
+ ![gif](http://iworkout.cn/static/test/blog/ppp_stack.gif)
 
 
 ##PPP协议特点
@@ -31,4 +32,10 @@
   ![png](http://iworkout.cn/static/test/blog/ppp_chengzai.jpg)
   
    - 下面是CRC字段， 监测数据中的错误
-   -  TBC
+
+###PPP协议的简单过程
+  -![png](http://iworkout.cn/static/test/blog/blog_ppp_process.png)
+### LCP数据报文结构
+   - NCP数据报文与其基本一致
+   ![png](http://iworkout.cn/static/test/blog/lcp.png)
+
